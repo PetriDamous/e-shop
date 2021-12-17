@@ -65,7 +65,7 @@ function Header() {
             <Image
               size="mini"
               alt="Picture of miniature store"
-              src="/static/logo.svg"
+              src="/logo.svg"
               style={{ marginRight: "1em" }}
             />
             E-Store
